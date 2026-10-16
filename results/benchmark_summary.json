@@ -1,0 +1,272 @@
+[
+  {
+    "size": 20,
+    "density": 0.1,
+    "algorithm": "dijkstra",
+    "mazes": 10,
+    "mean_path_length": 38,
+    "mean_expanded_nodes": 361.6,
+    "mean_expanded_density": 0.9997,
+    "mean_runtime_ms": 1.083
+  },
+  {
+    "size": 20,
+    "density": 0.1,
+    "algorithm": "astar_manhattan",
+    "mazes": 10,
+    "mean_path_length": 38,
+    "mean_expanded_nodes": 47.4,
+    "mean_expanded_density": 0.1312,
+    "mean_runtime_ms": 0.1619
+  },
+  {
+    "size": 20,
+    "density": 0.1,
+    "algorithm": "astar_euclidean",
+    "mazes": 10,
+    "mean_path_length": 38,
+    "mean_expanded_nodes": 321.2,
+    "mean_expanded_density": 0.8879,
+    "mean_runtime_ms": 1.11
+  },
+  {
+    "size": 20,
+    "density": 0.2,
+    "algorithm": "dijkstra",
+    "mazes": 10,
+    "mean_path_length": 38,
+    "mean_expanded_nodes": 321.3,
+    "mean_expanded_density": 0.9963,
+    "mean_runtime_ms": 0.9115
+  },
+  {
+    "size": 20,
+    "density": 0.2,
+    "algorithm": "astar_manhattan",
+    "mazes": 10,
+    "mean_path_length": 38,
+    "mean_expanded_nodes": 53.6,
+    "mean_expanded_density": 0.166,
+    "mean_runtime_ms": 0.1826
+  },
+  {
+    "size": 20,
+    "density": 0.2,
+    "algorithm": "astar_euclidean",
+    "mazes": 10,
+    "mean_path_length": 38,
+    "mean_expanded_nodes": 250.2,
+    "mean_expanded_density": 0.7759,
+    "mean_runtime_ms": 0.8533
+  },
+  {
+    "size": 20,
+    "density": 0.3,
+    "algorithm": "dijkstra",
+    "mazes": 10,
+    "mean_path_length": 40,
+    "mean_expanded_nodes": 248.8,
+    "mean_expanded_density": 0.8812,
+    "mean_runtime_ms": 0.6678
+  },
+  {
+    "size": 20,
+    "density": 0.3,
+    "algorithm": "astar_manhattan",
+    "mazes": 10,
+    "mean_path_length": 40,
+    "mean_expanded_nodes": 92.5,
+    "mean_expanded_density": 0.3307,
+    "mean_runtime_ms": 0.2949
+  },
+  {
+    "size": 20,
+    "density": 0.3,
+    "algorithm": "astar_euclidean",
+    "mazes": 10,
+    "mean_path_length": 40,
+    "mean_expanded_nodes": 177.9,
+    "mean_expanded_density": 0.6297,
+    "mean_runtime_ms": 0.5597
+  },
+  {
+    "size": 50,
+    "density": 0.1,
+    "algorithm": "dijkstra",
+    "mazes": 10,
+    "mean_path_length": 98,
+    "mean_expanded_nodes": 2253.7,
+    "mean_expanded_density": 0.9998,
+    "mean_runtime_ms": 7.3279
+  },
+  {
+    "size": 50,
+    "density": 0.1,
+    "algorithm": "astar_manhattan",
+    "mazes": 10,
+    "mean_path_length": 98,
+    "mean_expanded_nodes": 189.4,
+    "mean_expanded_density": 0.084,
+    "mean_runtime_ms": 0.7009
+  },
+  {
+    "size": 50,
+    "density": 0.1,
+    "algorithm": "astar_euclidean",
+    "mazes": 10,
+    "mean_path_length": 98,
+    "mean_expanded_nodes": 2137.7,
+    "mean_expanded_density": 0.9483,
+    "mean_runtime_ms": 7.789
+  },
+  {
+    "size": 50,
+    "density": 0.2,
+    "algorithm": "dijkstra",
+    "mazes": 10,
+    "mean_path_length": 98,
+    "mean_expanded_nodes": 1995.4,
+    "mean_expanded_density": 0.9956,
+    "mean_runtime_ms": 5.8235
+  },
+  {
+    "size": 50,
+    "density": 0.2,
+    "algorithm": "astar_manhattan",
+    "mazes": 10,
+    "mean_path_length": 98,
+    "mean_expanded_nodes": 271.7,
+    "mean_expanded_density": 0.1355,
+    "mean_runtime_ms": 1.0107
+  },
+  {
+    "size": 50,
+    "density": 0.2,
+    "algorithm": "astar_euclidean",
+    "mazes": 10,
+    "mean_path_length": 98,
+    "mean_expanded_nodes": 1778.9,
+    "mean_expanded_density": 0.8874,
+    "mean_runtime_ms": 6.246
+  },
+  {
+    "size": 50,
+    "density": 0.3,
+    "algorithm": "dijkstra",
+    "mazes": 10,
+    "mean_path_length": 101.8,
+    "mean_expanded_nodes": 1672.9,
+    "mean_expanded_density": 0.9556,
+    "mean_runtime_ms": 4.8823
+  },
+  {
+    "size": 50,
+    "density": 0.3,
+    "algorithm": "astar_manhattan",
+    "mazes": 10,
+    "mean_path_length": 101.8,
+    "mean_expanded_nodes": 379.3,
+    "mean_expanded_density": 0.2173,
+    "mean_runtime_ms": 1.2715
+  },
+  {
+    "size": 50,
+    "density": 0.3,
+    "algorithm": "astar_euclidean",
+    "mazes": 10,
+    "mean_path_length": 101.8,
+    "mean_expanded_nodes": 1240.2,
+    "mean_expanded_density": 0.7081,
+    "mean_runtime_ms": 4.2283
+  },
+  {
+    "size": 100,
+    "density": 0.1,
+    "algorithm": "dijkstra",
+    "mazes": 10,
+    "mean_path_length": 198,
+    "mean_expanded_nodes": 8989.4,
+    "mean_expanded_density": 0.9998,
+    "mean_runtime_ms": 29.4897
+  },
+  {
+    "size": 100,
+    "density": 0.1,
+    "algorithm": "astar_manhattan",
+    "mazes": 10,
+    "mean_path_length": 198,
+    "mean_expanded_nodes": 545.7,
+    "mean_expanded_density": 0.0607,
+    "mean_runtime_ms": 2.169
+  },
+  {
+    "size": 100,
+    "density": 0.1,
+    "algorithm": "astar_euclidean",
+    "mazes": 10,
+    "mean_path_length": 198,
+    "mean_expanded_nodes": 8709.8,
+    "mean_expanded_density": 0.9687,
+    "mean_runtime_ms": 33.0812
+  },
+  {
+    "size": 100,
+    "density": 0.2,
+    "algorithm": "dijkstra",
+    "mazes": 10,
+    "mean_path_length": 198,
+    "mean_expanded_nodes": 7977.1,
+    "mean_expanded_density": 0.9972,
+    "mean_runtime_ms": 25.2232
+  },
+  {
+    "size": 100,
+    "density": 0.2,
+    "algorithm": "astar_manhattan",
+    "mazes": 10,
+    "mean_path_length": 198,
+    "mean_expanded_nodes": 932.9,
+    "mean_expanded_density": 0.1168,
+    "mean_runtime_ms": 3.5224
+  },
+  {
+    "size": 100,
+    "density": 0.2,
+    "algorithm": "astar_euclidean",
+    "mazes": 10,
+    "mean_path_length": 198,
+    "mean_expanded_nodes": 7413.4,
+    "mean_expanded_density": 0.9268,
+    "mean_runtime_ms": 26.7402
+  },
+  {
+    "size": 100,
+    "density": 0.3,
+    "algorithm": "dijkstra",
+    "mazes": 10,
+    "mean_path_length": 201.8,
+    "mean_expanded_nodes": 6806.8,
+    "mean_expanded_density": 0.9725,
+    "mean_runtime_ms": 20.754
+  },
+  {
+    "size": 100,
+    "density": 0.3,
+    "algorithm": "astar_manhattan",
+    "mazes": 10,
+    "mean_path_length": 201.8,
+    "mean_expanded_nodes": 782.2,
+    "mean_expanded_density": 0.1117,
+    "mean_runtime_ms": 2.7255
+  },
+  {
+    "size": 100,
+    "density": 0.3,
+    "algorithm": "astar_euclidean",
+    "mazes": 10,
+    "mean_path_length": 201.8,
+    "mean_expanded_nodes": 5338.1,
+    "mean_expanded_density": 0.7626,
+    "mean_runtime_ms": 18.7458
+  }
+]
